@@ -1,0 +1,9 @@
+{
+  "name": "embanet-compass/moodle-block_grade_me",
+  "type": "moodle-block",
+  "description": "Grade Me Block",
+  "extra": {
+    "installer-name": "grade_me",
+    "moodle": { "package_folder_name" : "grade_me" }
+  }
+}
